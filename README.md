@@ -58,7 +58,10 @@ jupyter notebook --generate-config
 ```
 jupyter notebook password
 ```
-
+3. Login as root：
+```
+jupyter notebook --allow-root
+```
 # Reference：
 1. [如何用Python和深度神經網絡識別圖像？](https://onway2017.wordpress.com/2020/07/17/%E5%A6%82%E4%BD%95%E7%94%A8python%E5%92%8C%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1%E8%AD%98%E5%88%A5%E5%9C%96%E5%83%8F%EF%BC%9F/)
 2. [turicreate 6.4.1](https://pypi.org/project/turicreate/)
