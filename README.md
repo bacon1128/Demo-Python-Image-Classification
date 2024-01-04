@@ -71,3 +71,5 @@ localhost:8888
 2. [turicreate 6.4.1](https://pypi.org/project/turicreate/)
 3. [How to install Turi Create on Windows 10](https://medium.com/@malondireads/installing-turicreate-on-windows-10-534e147a4792)
 4. [Running a notebook server](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
+5. [Core ML 教學：如何利用 Python 和 Turi Create 來建立自訂模型](https://www.appcoda.com.tw/core-ml-model-with-python/)
+6. [CNN模型-ResNet、MobileNet、DenseNet、ShuffleNet、EfficientNet](https://cinnamonaitaiwan.medium.com/cnn%E6%A8%A1%E5%9E%8B-resnet-mobilenet-densenet-shufflenet-efficientnet-5eba5c8df7e4)
